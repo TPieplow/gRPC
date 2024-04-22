@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YClp+9/fNk+7tCoGIaddG5HzPVXppPiMLtBPcsyObHOd8ByrONP5bt9VtzUYdcWQ5Nq8Lxqs88/U4FJE0m4B+A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\gRPC\\Grpc\\ClientApplication\\ClientApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tedpi\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\tedpi\\.nuget\\packages\\grpc.core.api\\2.62.0\\grpc.core.api.2.62.0.nupkg.sha512",
+    "C:\\Users\\tedpi\\.nuget\\packages\\grpc.net.client\\2.62.0\\grpc.net.client.2.62.0.nupkg.sha512",
+    "C:\\Users\\tedpi\\.nuget\\packages\\grpc.net.common\\2.62.0\\grpc.net.common.2.62.0.nupkg.sha512",
+    "C:\\Users\\tedpi\\.nuget\\packages\\grpc.tools\\2.62.0\\grpc.tools.2.62.0.nupkg.sha512",
+    "C:\\Users\\tedpi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
